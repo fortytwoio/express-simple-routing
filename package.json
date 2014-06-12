@@ -1,0 +1,28 @@
+{
+    "name":            "express-simple-routing",
+    "version":         "1.0.0",
+    "description":     "Very simple and basic routing setup",
+    "main":            "index.js",
+    "scripts":         {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords":        [
+        "express",
+        "router",
+        "routing"
+    ],
+    "author":          "Thomas Fritz <fritztho@gmail.com> (http://www.fritzthomas.com)",
+    "license":         "MIT",
+    "dependencies":    {
+        "express": "^4.4.3"
+    },
+    "devDependencies": {},
+    "repository":      {
+        "type": "git",
+        "url":  "https://github.com/thomasfr/express-simple-routing.git"
+    },
+    "bugs":            {
+        "url": "https://github.com/thomasfr/express-simple-routing/issues"
+    },
+    "homepage":        "https://github.com/thomasfr/express-simple-routing"
+}
